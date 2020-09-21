@@ -1,0 +1,25 @@
+npm install -g @vue/cli
+
+vue create projectName
+
+
+npm run serve
+
+
+
+
+# https://v3.vuejs.org/guide/instance.html#instance-lifecycle-hooks
+
+
+# https://www.youtube.com/watch?v=Wy9q22isx3U
+# 40:00
+
+
+
+
+
+
+
+-----
+
+# vuejs devtools
